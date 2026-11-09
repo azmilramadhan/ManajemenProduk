@@ -21,7 +21,7 @@ Sesuai dengan spesifikasi tugas yang diberikan, aplikasi ini memiliki fitur:
 
 ---
 
-## Screenshot Aplikasi
+## UI Aplikasi
 
 ### 1. Halaman Form Tambah Produk
 ![Form Tambah Produk](assets/screenshot_form.png)
